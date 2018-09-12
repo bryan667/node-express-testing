@@ -1,1 +1,1 @@
-a basic exercise for nodeJS with Express, handlebars, heroku
+basic exercise with NodeJS, Express, handlebars, heroku
